@@ -1,0 +1,153 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TheChampions
+build_property.RootNamespace = TheChampions
+build_property.ProjectDir = C:\Users\nateb\OneDrive\Desktop\Web 2 Projects\TheChampions\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nateb\OneDrive\Desktop\Web 2 Projects\TheChampions
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Activity/CreateActivity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcQ3JlYXRlQWN0aXZpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Activity/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Activity/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Activity/getActivityById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcZ2V0QWN0aXZpdHlCeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Activity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Activity/ListActivity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcTGlzdEFjdGl2aXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Admin/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGlzcGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Camp/Buhe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcFxCdWhlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Camp/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Camp/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Camp/getRegistrantbyid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcFxnZXRSZWdpc3RyYW50YnlpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Camp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Camp/ListRegistrants.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcFxMaXN0UmVnaXN0cmFudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Camp/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Camp/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcFxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Camp/SeeMore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcFxTZWVNb3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Camp/WaterDay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcFxXYXRlckRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Dashboard/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Home/CustMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0TWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Payment/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxQYXltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Shared/_Culture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DdWx0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Transaction/CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25cQ3JlYXRlT3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Transaction/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Transaction/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/UserAuthentication/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhlbnRpY2F0aW9uXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/UserAuthentication/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhlbnRpY2F0aW9uXFJlZ2lzdHJhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nateb/OneDrive/Desktop/Web 2 Projects/TheChampions/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6kdp5jve79

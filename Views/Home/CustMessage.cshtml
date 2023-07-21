@@ -1,0 +1,35 @@
+﻿@using TheChampions.Models;
+@model List<CustomerReach>
+
+
+<div class="text-center">
+    <h1 class="display-4">Delivered Messages</h1>
+</div>
+
+<h1>Messages</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+            <th>Message</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Phone_Number</td>
+                <td>@item.CustMessage</td>
+                
+            </tr>
+        }
+    </tbody>
+
+</table>

@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>À propos</value>
+  </data>
+  <data name="ACTIVITIES" xml:space="preserve">
+    <value>ACTIVITÉS</value>
+  </data>
+  <data name="AFTERNOON EVENT" xml:space="preserve">
+    <value>ÉVÉNEMENT APRÈS-MIDI</value>
+  </data>
+  <data name="BUHE" xml:space="preserve">
+    <value>DES PUCES</value>
+  </data>
+  <data name="CAMP" xml:space="preserve">
+    <value>CAMP</value>
+  </data>
+  <data name="Camp Photos" xml:space="preserve">
+    <value>Photos du camping</value>
+  </data>
+  <data name="CHEGEGN TEKELA" xml:space="preserve">
+    <value>CHEGEGN TEKELA</value>
+  </data>
+  <data name="COMMUNICATION" xml:space="preserve">
+    <value>COMMUNICATION</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="EVENTS" xml:space="preserve">
+    <value>ÉVÉNEMENTS</value>
+  </data>
+  <data name="FULL DAY EVENT" xml:space="preserve">
+    <value>ÉVÉNEMENT D'UNE JOURNÉE COMPLÈTE</value>
+  </data>
+  <data name="HANA HAILU" xml:space="preserve">
+    <value>TRAVAIL DE LA PIERRE</value>
+  </data>
+  <data name="HIKING" xml:space="preserve">
+    <value>RANDONNÉE</value>
+  </data>
+  <data name="HOLY SPIRIT" xml:space="preserve">
+    <value>ESPRIT SAINT</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Maison</value>
+  </data>
+  <data name="IMPORTANT" xml:space="preserve">
+    <value>IMPORTANT</value>
+  </data>
+  <data name="IN LAST DAY OF THE 1ST WEEK OF THE CHAMPIONS CAMP" xml:space="preserve">
+    <value>AU DERNIER JOUR DE LA 1ERE SEMAINE DU CAMP DES CHAMPIONS</value>
+  </data>
+  <data name="IN THE 1ST DAY OF THE 3RD WEEK OF THE CHAMPIONS CAMP" xml:space="preserve">
+    <value>AU 1ER JOUR DE LA 3EME SEMAINE DU CAMP DES CHAMPIONS</value>
+  </data>
+  <data name="IN THE 1ST WEEK OF THE CHAMPIONS CAMP" xml:space="preserve">
+    <value>DANS LA 1ÈRE SEMAINE DU CAMP DES CHAMPIONS</value>
+  </data>
+  <data name="IN THE 2ND WEEK OF THE CHAMPIONS CAMP" xml:space="preserve">
+    <value>DANS LA 2ÈME SEMAINE DU CAMP DES CHAMPIONS</value>
+  </data>
+  <data name="IN THE 3RD WEEK OF THE CHAMPIONS CAMP" xml:space="preserve">
+    <value>DANS LA 3ÈME SEMAINE DU CAMP DES CHAMPIONS</value>
+  </data>
+  <data name="IN THE 4TH WEEK OF THE CHAMPIONS CAMP" xml:space="preserve">
+    <value>DANS LA 4ÈME SEMAINE DU CAMP DES CHAMPIONS</value>
+  </data>
+  <data name="IN-CHRIST" xml:space="preserve">
+    <value>DANS LE CHRIST</value>
+  </data>
+  <data name="LAST DAY GOODBYE EVENT" xml:space="preserve">
+    <value>ÉVÉNEMENT AU REVOIR DERNIER JOUR</value>
+  </data>
+  <data name="LEADERSHIP" xml:space="preserve">
+    <value>DIRECTION</value>
+  </data>
+  <data name="MAHLET" xml:space="preserve">
+    <value>MAHLET</value>
+  </data>
+  <data name="MANAGMENT" xml:space="preserve">
+    <value>GESTION</value>
+  </data>
+  <data name="MIKIYAS HABTAMU" xml:space="preserve">
+    <value>MIKIYAS HABTAMU</value>
+  </data>
+  <data name="MIKYAS" xml:space="preserve">
+    <value>MIKYAS</value>
+  </data>
+  <data name="MORNING EVENT AROUND RICHE, STADIUM" xml:space="preserve">
+    <value>ÉVÉNEMENT DU MATIN AUTOUR DU STADE RICHE</value>
+  </data>
+  <data name="NCIC COMPOUND, RICHE" xml:space="preserve">
+    <value>COMPOSÉ DE L'INCC, RICHE</value>
+  </data>
+  <data name="New" xml:space="preserve">
+    <value>Nouveau</value>
+  </data>
+  <data name="PASTOR FITSUM" xml:space="preserve">
+    <value>PASTEUR FITSUM</value>
+  </data>
+  <data name="PASTOR SURAFEL" xml:space="preserve">
+    <value>PASTEUR SURAFEL</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Enregistrer</value>
+  </data>
+  <data name="Register Now" xml:space="preserve">
+    <value>S'inscrire maintenant</value>
+  </data>
+  <data name="RICHE, STADIUM" xml:space="preserve">
+    <value>RICHE, STADE</value>
+  </data>
+  <data name="Schedules" xml:space="preserve">
+    <value>Des horaires</value>
+  </data>
+  <data name="SUBA MENAGESHA" xml:space="preserve">
+    <value>Une descente rapide</value>
+  </data>
+  <data name="TEACHINGS" xml:space="preserve">
+    <value>ENSEIGNEMENTS</value>
+  </data>
+  <data name="THE CHAMPIONS" xml:space="preserve">
+    <value>LES CHAMPIONS</value>
+  </data>
+  <data name="THE CHAMPIONS CAMP" xml:space="preserve">
+    <value>LE CAMP DES CHAMPIONS</value>
+  </data>
+  <data name="Transaction" xml:space="preserve">
+    <value>Transaction</value>
+  </data>
+  <data name="WATER DAY" xml:space="preserve">
+    <value>JOURNEE DE L'EAU</value>
+  </data>
+</root>

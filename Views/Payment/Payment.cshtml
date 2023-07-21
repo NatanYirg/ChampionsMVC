@@ -1,0 +1,84 @@
+﻿@model TheChampions.Models.View_Model.PaymentViewModel
+
+
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <h1>Payment Form</h1>
+
+<form  method="POST" action="https://api.chapa.co/v1/hosted/pay">
+
+  @*  <input type="hidden" name="public_key" value="CHAPUBK_TEST-7U6zZTWevEXPcim8LK2mgvX7Rkarz4QQ" />
+    <input type="hidden" name="tx_ref" value=@Model.tx_ref/>
+    <input type="hidden" name="amount" value=@Model.Amount />
+    <input type="hidden" name="currency" value="ETB" />
+    <input type="hidden" name="email" value=@Model.Email/>
+    <input type="hidden" name="first_name" value=@Model.First_Name />
+    <input type="hidden" name="last_name" value=@Model.Last_Name/>
+    <input type="hidden" name="title" value="Let us do this" />
+    <input type="hidden" name="description" value="Paying with Confidence with cha" />
+    <input type="hidden" name="logo" value="https://chapa.link/asset/images/chapa_swirl.svg" />
+    <input type="hidden" name="callback_url" value="https://example.com/callbackurl" />
+    <input type="hidden" name="return_url" value="https://example.com/returnurl" />
+    <input type="hidden" name="meta[title]" value="test" />*@
+
+
+            
+    
+
+            <input type="hidden" name="public_key" value="CHAPUBK_TEST-7U6zZTWevEXPcim8LK2mgvX7Rkarz4QQ" />
+
+            <input type="hidden" name="tx_ref" value="@ViewBag.RandomNum" /> 
+
+            
+            <div>
+                <label asp-for="First_Name" class="control-label">First Name</label>
+                <input name="first_name" value="" class="form-control" />
+                
+            </div>
+            
+            <div>
+                <label asp-for="Last_Name" class="control-label">Last Name</label>
+                <input name="last_name" value="" class="form-control" />
+                
+            </div>
+            
+            <div>
+                <label asp-for="Email" class="control-label">Email</label>
+                <input name="email" value="" class="form-control" />
+                
+            </div>
+            
+            
+            <div>
+                <label asp-for="Amount" class="control-label">Amount</label>
+                <input name="amount" value=@ViewBag.Amount class="form-control" />
+                
+            </div>
+            
+            <input type="hidden" name="currency" value="ETB" class="form-control" />
+            <input type="hidden" name="title" value="Let us do this" />
+            <input type="hidden" name="description" value="Paying with Confidence with cha" />
+            <input type="hidden" name="logo" value="https://chapa.link/asset/images/chapa_swirl.svg" />
+            <input type="hidden" name="callback_url" value="https://example.com/callbackurl" />
+            <input type="hidden" name="return_url" value="https://localhost:44362/" />
+            <input type="hidden" name="meta[title]" value="test" />
+
+
+            <div class="row mt-2">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <button class="btn btn-primary w-100" type="submit">Pay Now</button>
+                        
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div>
+                        <a class="btn btn-secondary w-100" href="/Camp/Register">Back</a>
+                       
+                    </div>
+                </div>
+            </div>
+   
+</form>
+    </div>          
+</div>

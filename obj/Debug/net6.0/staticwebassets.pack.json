@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TheChampions.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TheChampions.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\download.jpg",
+      "PackagePath": "staticwebassets\\Images\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\images.jpg",
+      "PackagePath": "staticwebassets\\Images\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-05-30_18-22-24.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-05-30_18-22-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-05-31_23-34-06.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-05-31_23-34-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-05-31_23-34-23.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-05-31_23-34-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-05-31_23-34-34.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-05-31_23-34-34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-05-31_23-34-51.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-05-31_23-34-51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-05-31_23-35-04.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-05-31_23-35-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-05-31_23-35-28.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-05-31_23-35-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-05-31_23-35-38.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-05-31_23-35-38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-05-31_23-35-48.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-05-31_23-35-48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-06-01_17-05-47.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-06-01_17-05-47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-06-01_18-47-01.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-06-01_18-47-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-06-01_18-47-14.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-06-01_18-47-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-06-01_18-47-28.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-06-01_18-47-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-06-01_18-49-06.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-06-01_18-49-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-06-01_18-49-14.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-06-01_18-49-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-06-05_13-10-47.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-06-05_13-10-47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-06-05_13-11-04.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-06-05_13-11-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-06-05_13-11-09.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-06-05_13-11-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\photo_2023-06-05_13-11-15.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-06-05_13-11-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Images\\social.jpeg",
+      "PackagePath": "staticwebassets\\Images\\social.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\037c1648-4b01-4ee8-b832-c00b2d060b45_photo_2023-01-05_01-10-25.jpg",
+      "PackagePath": "staticwebassets\\Registration\\Image\\037c1648-4b01-4ee8-b832-c00b2d060b45_photo_2023-01-05_01-10-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\1-next_9_tasks.png",
+      "PackagePath": "staticwebassets\\Registration\\Image\\1-next_9_tasks.png"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\356d1239-ff99-4383-8ab3-790b52ce8ac4_photo_2023-05-31_23-34-23.jpg",
+      "PackagePath": "staticwebassets\\Registration\\Image\\356d1239-ff99-4383-8ab3-790b52ce8ac4_photo_2023-05-31_23-34-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\43be5005-4801-46a7-b8f9-a1aac2c0d4be_1-next_9_tasks.png",
+      "PackagePath": "staticwebassets\\Registration\\Image\\43be5005-4801-46a7-b8f9-a1aac2c0d4be_1-next_9_tasks.png"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\501358ce-2f71-4938-8256-3d222130a0ac_photo_2023-05-31_23-35-48.jpg",
+      "PackagePath": "staticwebassets\\Registration\\Image\\501358ce-2f71-4938-8256-3d222130a0ac_photo_2023-05-31_23-35-48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\62090987-8349-4f1d-8ed4-7672ac277fd0_photo_2023-01-02_18-48-16.psd",
+      "PackagePath": "staticwebassets\\Registration\\Image\\62090987-8349-4f1d-8ed4-7672ac277fd0_photo_2023-01-02_18-48-16.psd"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\6f714f85-3613-4b26-bb1d-abe541d3f504_photo_2023-05-31_23-35-28.jpg",
+      "PackagePath": "staticwebassets\\Registration\\Image\\6f714f85-3613-4b26-bb1d-abe541d3f504_photo_2023-05-31_23-35-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\70a80efb-4d1c-483b-b9c2-2cb533be92e4_photo_2023-06-01_18-47-01.jpg",
+      "PackagePath": "staticwebassets\\Registration\\Image\\70a80efb-4d1c-483b-b9c2-2cb533be92e4_photo_2023-06-01_18-47-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\70f71ef9-8bfb-47b5-84c7-949509589922_photo_2023-05-31_23-35-04.jpg",
+      "PackagePath": "staticwebassets\\Registration\\Image\\70f71ef9-8bfb-47b5-84c7-949509589922_photo_2023-05-31_23-35-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\8c6a58b0-609f-4d13-a5d3-664373d0d6be_photo_2023-05-30_18-22-24.jpg",
+      "PackagePath": "staticwebassets\\Registration\\Image\\8c6a58b0-609f-4d13-a5d3-664373d0d6be_photo_2023-05-30_18-22-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\a57927bb-6480-46f6-877c-ff7adc1b072a_photo_2023-05-31_23-35-48.jpg",
+      "PackagePath": "staticwebassets\\Registration\\Image\\a57927bb-6480-46f6-877c-ff7adc1b072a_photo_2023-05-31_23-35-48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\ab4cedc2-5411-4b02-b5d3-1da835c77ccf_0-first_9_tasks.png",
+      "PackagePath": "staticwebassets\\Registration\\Image\\ab4cedc2-5411-4b02-b5d3-1da835c77ccf_0-first_9_tasks.png"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\c3060d14-e38a-44ce-8985-d4d075a7336f_0-first_9_tasks.png",
+      "PackagePath": "staticwebassets\\Registration\\Image\\c3060d14-e38a-44ce-8985-d4d075a7336f_0-first_9_tasks.png"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\c5fb89f1-ff07-4e1b-8ddd-853e7cb339a8_photo_2023-05-31_23-34-23.jpg",
+      "PackagePath": "staticwebassets\\Registration\\Image\\c5fb89f1-ff07-4e1b-8ddd-853e7cb339a8_photo_2023-05-31_23-34-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\de6fbcfa-abc9-4583-b39b-67e42b8da3ae_photo_2023-05-31_23-34-23.jpg",
+      "PackagePath": "staticwebassets\\Registration\\Image\\de6fbcfa-abc9-4583-b39b-67e42b8da3ae_photo_2023-05-31_23-34-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\Registration\\Image\\e010dcce-3ea7-4ddf-8f73-9e01e65b7d58_1-next_9_tasks.png",
+      "PackagePath": "staticwebassets\\Registration\\Image\\e010dcce-3ea7-4ddf-8f73-9e01e65b7d58_1-next_9_tasks.png"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nateb\\OneDrive\\Desktop\\Web 2 Projects\\TheChampions\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TheChampions.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TheChampions.props",
+      "PackagePath": "build\\TheChampions.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TheChampions.props",
+      "PackagePath": "buildMultiTargeting\\TheChampions.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TheChampions.props",
+      "PackagePath": "buildTransitive\\TheChampions.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

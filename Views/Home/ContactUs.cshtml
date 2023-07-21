@@ -1,0 +1,62 @@
+﻿@model TheChampions.Models.CustomerReach
+
+@{
+    Layout = "_Layout";
+}
+
+<style>
+    /*body, html {
+        min-height: 100vh;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }*/
+
+    body, h1, h2, h3, h4, h5, h6 {
+        font-family: "Amatic SC", sans-serif
+    }
+    body{
+        background-color: #607d8b
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
+
+
+
+    <div class="w3-container w3-padding-64 w3-blue-grey w3-grayscale-min w3-xlarge">
+        <div class="w3-content">
+            <h1 class="w3-center w3-jumbo" style="margin-bottom:64px">Contact us</h1>
+            <p>Find us at some address at some place or call us at 0933889099</p>
+            <p><span class="w3-tag">FYI!</span> We offer full-service and any event, large or small. We understand your needs and we will satisfy the biggerst criteria of them all, both spiritually and carnally.</p>
+            <p class="w3-xxlarge"><strong>Comment</strong> or, ask for any information or just send us a message:</p>
+
+            <form asp-controller="Home" asp-action="ContactUs" enctype="multipart/form-data"
+      method="post" class="mt-3">
+            
+                <p>
+                    <input asp-for="Name" class="w3-input w3-padding-16 w3-border" type="text" placeholder="Name" required name="Name">
+                </p>
+            <p>
+                <input asp-for="Email" class="w3-input w3-padding-16 w3-border" type="text" placeholder="Email" required name="Email">
+            </p>
+                <p>
+                    <input asp-for="Phone_Number" class="w3-input w3-padding-16 w3-border" type="int" placeholder="Phone number" required name="People">
+                </p>
+                <p>
+                    <input asp-for="DateTime" class="w3-input w3-padding-16 w3-border" type="datetime-local" placeholder="Date and time" required name="date" value="2020-11-16T20:00">
+                </p>
+                <p>
+                    <input asp-for="CustMessage" class="w3-input w3-padding-16 w3-border" type="text" placeholder="Message \ Special requirements" >
+                </p>
+                
+                    <p><button class="w3-button w3-light-grey w3-block" type="submit">SEND MESSAGE</button></p>
+
+        </form>
+
+        </div>
+    </div>

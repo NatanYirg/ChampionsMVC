@@ -1,0 +1,87 @@
+﻿<style>
+    .container-fluid{
+        position:relative;
+    }
+    .search-bar{
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+</style>
+
+
+
+@using TheChampions.Models;
+@model List<Registration>
+
+@{
+    Layout = "_Layout";
+    //var plist = ViewBag.products;
+}
+
+<div class="container">
+    
+    <div class="container-fluid">
+        
+    <h4 class="display-4">Registered Participants</h4>
+        
+
+    <section class="search-bar">
+    <form asp-controller="camp" method="get" asp-action="Search">
+    <input type="text" name="term" placeholder="search here">
+    <button type="submit"><i class="fa fa-search"></i></button>
+    @*<a class="btn btn-default" href="/camp/Search">All</a>*@
+    </form>
+    </section>
+
+    </div>
+
+    @*<form asp-action="Index" method="get">
+        <div class="form-group">
+            <label for="term">Search</label>
+            <input type="text" name="term"
+                value="@ViewData["CurrentFilter"]" />
+                <input type="submit" value="Search" class="btn btn-primary" />
+        </div>
+    </form>*@
+
+
+   @* <section class="search-bar">
+        <form method="get" asp-action="Search">
+            <input type="text" name="term" placeholder="search here">
+            <button type="submit"><i class="fa fa-search"></i></button>
+            <a class="btn btn-default" href="/camp/Search">All</a>
+        </form>
+    </section>*@
+
+    <div class="row">
+        @foreach (var s in @Model)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm" style="width: 18rem;">
+                    <img src="~/@s.imagePath" width="50" height="150" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h2 class="card-title">@s.FirstName  @s.LastName </h2>
+                        <p class="card-text">Name: @s.age</p>
+                        <p class="card-text">Phone Number: @s.tel_No</p>
+                        <p class="card-text">Activity: @s.activity</p>
+                        @*<p class="card-text">@s.batch</p>*@
+                        @*<div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                    <a href="/product/getproductbyid/@p.productId" class="btn btn-sm btn-outline-secondary">View Detail</a>
+                    </div>
+                    <small class="text-muted">Item Unique Name</small>
+                    </div>*@
+                        <div class="card-footer text-center">
+
+@*                            <a asp-action="getRegistrantbyid" asp-controller="Camp" asp-route-id="@s.id" class="btn btn-sm btn-outline-secondary">View Detail</a>
+*@                            <a asp-action="Edit" asp-controller="Camp" asp-route-id="@s.id" class="btn btn-sm btn-primary">Edit</a>
+                            <a asp-action="Delete" asp-controller="Camp" asp-route-id="@s.id" class="btn btn-sm btn-primary">Delete</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+</div>

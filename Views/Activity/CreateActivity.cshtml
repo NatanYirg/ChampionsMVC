@@ -1,0 +1,48 @@
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+@model TheChampions.Models.Activity
+
+@{
+    ViewData["Title"] = @localizer["Add Activity"];
+}
+
+
+<@*h1>Create</h1> <h4>Transaction</h4>
+                  <hr />*@
+
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <h1>@localizer["CreateActivity"]</h1>
+
+        <form asp-action="CreateActivity" autocomplete="on">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="activityid" />
+            <div class="form-group">
+                <label  asp-for="activityname" class="control-label" >@localizer["Activity"]</label>
+                <input asp-for="activityname" class="form-control" />
+                <span asp-validation-for="activityname" class="text-danger"></span>
+            </div>
+       
+            <div class="row mt-2">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value=@localizer["Submit"] class="btn btn-primary w-100" />
+                    </div>
+                </div>
+                    <div class="col-md-6">
+                        <div>
+                             <a asp-action="ListActivity" class="btn btn-secondary w-100"> @localizer["View All"]</a>
+                        </div>
+                    </div>
+              </div>
+
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
